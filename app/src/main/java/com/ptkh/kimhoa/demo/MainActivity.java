@@ -62,4 +62,11 @@ public class MainActivity extends AppCompatActivity {
     {
         Log.d("String", "Xin chào bé: " + ten + " "+ tuoi + " tuổi");
     }
+
+    /**
+     * Created by Hoa Ngu on 9/12/2017.
+     */
+
+    public static class them {
+    }
 }
